@@ -9439,7 +9439,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6434e0e4-de08-44d5-ab8c-695625324ffd")
 		(property "Reference" "J46"
 			(at 227.33 185.4199 0)
@@ -9451,7 +9450,7 @@
 			)
 		)
 		(property "Value" "Conn_BTN_Premium"
-			(at 227.33 187.9599 0)
+			(at 227.838 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
