@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "TBL002A-350-02GY-2GY") (type "KiCad") (uri "${KIPRJMOD}/library/Footprints/TBL002A-350-02GY-2GY/TBL002A-350-02GY-2GY.kicad_sym") (options "") (descr ""))
 	(lib (name "TBL002A-350-04GY-2GY") (type "KiCad") (uri "${KIPRJMOD}/library/Footprints/TBL002A-350-04GY-2GY/TBL002A-350-04GY-2GY.kicad_sym") (options "") (descr ""))
+	(lib (name "TE 5103308-6") (type "KiCad") (uri "${KIPRJMOD}/library/Symbol") (options "") (descr ""))
 )

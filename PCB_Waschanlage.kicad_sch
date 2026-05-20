@@ -5,1152 +5,6 @@
 	(uuid "284bb3f8-733b-4eb9-985e-cf7a240c5099")
 	(paper "A3")
 	(lib_symbols
-		(symbol "Connector:DB25_Pins_MountingHoles"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 36.83 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "DB25_Pins_MountingHoles"
-				(at 0 34.925 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "25-pin D-SUB connector, pins (male), Mounting Hole"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "DSUB"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "DSUB*Pins*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "DB25_Pins_MountingHoles_0_1"
-				(polyline
-					(pts
-						(xy -3.81 30.48) (xy -2.54 30.48)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 27.94) (xy 0.508 27.94)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 25.4) (xy -2.54 25.4)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 22.86) (xy 0.508 22.86)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 20.32) (xy -2.54 20.32)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 17.78) (xy 0.508 17.78)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 15.24) (xy -2.54 15.24)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 12.7) (xy 0.508 12.7)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 10.16) (xy -2.54 10.16)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 7.62) (xy 0.508 7.62)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 5.08) (xy -2.54 5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 2.54) (xy 0.508 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -2.54) (xy 0.508 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -5.08) (xy -2.54 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -7.62) (xy 0.508 -7.62)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -10.16) (xy -2.54 -10.16)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -12.7) (xy 0.508 -12.7)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -15.24) (xy -2.54 -15.24)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -17.78) (xy 0.508 -17.78)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -20.32) (xy -2.54 -20.32)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -22.86) (xy 0.508 -22.86)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -25.4) (xy -2.54 -25.4)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -27.94) (xy 0.508 -27.94)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -30.48) (xy -2.54 -30.48)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -33.655) (xy 3.81 -29.845) (xy 3.81 29.845) (xy -3.81 33.655) (xy -3.81 -33.655)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(circle
-					(center -1.778 30.48)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 25.4)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 20.32)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 15.24)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 10.16)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 5.08)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 0)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 -5.08)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 -10.16)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 -15.24)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 -20.32)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 -25.4)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -1.778 -30.48)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 27.94)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 22.86)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 17.78)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 12.7)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 7.62)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 2.54)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 -2.54)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 -7.62)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 -12.7)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 -17.78)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 -22.86)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 -27.94)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "DB25_Pins_MountingHoles_1_1"
-				(pin passive line
-					(at 0 -35.56 90)
-					(length 3.81)
-					(name "PAD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -30.48 0)
-					(length 3.81)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -25.4 0)
-					(length 3.81)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -20.32 0)
-					(length 3.81)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -15.24 0)
-					(length 3.81)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -10.16 0)
-					(length 3.81)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -5.08 0)
-					(length 3.81)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 0 0)
-					(length 3.81)
-					(name "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 5.08 0)
-					(length 3.81)
-					(name "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 10.16 0)
-					(length 3.81)
-					(name "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 15.24 0)
-					(length 3.81)
-					(name "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 20.32 0)
-					(length 3.81)
-					(name "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 25.4 0)
-					(length 3.81)
-					(name "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 30.48 0)
-					(length 3.81)
-					(name "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -27.94 0)
-					(length 3.81)
-					(name "P14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -22.86 0)
-					(length 3.81)
-					(name "P15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -17.78 0)
-					(length 3.81)
-					(name "P16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -12.7 0)
-					(length 3.81)
-					(name "P17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -7.62 0)
-					(length 3.81)
-					(name "P18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -2.54 0)
-					(length 3.81)
-					(name "P19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 2.54 0)
-					(length 3.81)
-					(name "P20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 7.62 0)
-					(length 3.81)
-					(name "P21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 12.7 0)
-					(length 3.81)
-					(name "P22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 17.78 0)
-					(length 3.81)
-					(name "P23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 22.86 0)
-					(length 3.81)
-					(name "P24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 27.94 0)
-					(length 3.81)
-					(name "P25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names
 				(offset 1.016)
@@ -1967,6 +821,636 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "TE 5103308-6:5103308-6"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 19.05 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "5103308-6"
+				(at 19.05 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "SHDR26W66P254_2X13_4051X914X986P"
+				(at 19.05 -94.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82012_Ribbon_Cable_Interconnect_Sol&DocType=Catalog%20Section&DocLang=English&PartCntxt=5103308-6&DocFormat=pdf"
+				(at 19.05 -194.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Description" "Body Features: Connector Profile Low | Primary Product Color Black | Daisy Chain With | Configuration Features: PCB Mount Orientation Vertical | Number of Positions 26 | Number of Rows 2 | Contact Features: Mating Square Post Dimension .025 INCH | PCB Contact Termination Area Plating Material Tin | Contact Underplating Material Nickel | Contact Current Rating (Max) 1 AMP | Contact Shape & Form Square | Mating Square Post Dimension .64 MM | Contact Mating Area Plating Material Gold Flash over Palladium Nicke"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Height" "9.855"
+				(at 19.05 -394.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Name" "TE Connectivity"
+				(at 19.05 -494.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Part_Number" "5103308-6"
+				(at 19.05 -594.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Part Number" "571-5103308-6"
+				(at 19.05 -694.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5103308-6?qs=84A%2FDAdkstJnwZNxAcNGNA%3D%3D"
+				(at 19.05 -794.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Arrow Part Number" "5103308-6"
+				(at 19.05 -894.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/5103308-6/te-connectivity?region=europe"
+				(at 19.05 -994.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(symbol "5103308-6_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 17.78 -33.02)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -2.54 180)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -5.08 180)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -7.62 180)
+					(length 5.08)
+					(name "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -10.16 180)
+					(length 5.08)
+					(name "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 0)
+					(length 5.08)
+					(name "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -12.7 180)
+					(length 5.08)
+					(name "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -15.24 0)
+					(length 5.08)
+					(name "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -15.24 180)
+					(length 5.08)
+					(name "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -17.78 0)
+					(length 5.08)
+					(name "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -17.78 180)
+					(length 5.08)
+					(name "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -20.32 0)
+					(length 5.08)
+					(name "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -20.32 180)
+					(length 5.08)
+					(name "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 0)
+					(length 5.08)
+					(name "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -22.86 180)
+					(length 5.08)
+					(name "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -25.4 0)
+					(length 5.08)
+					(name "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -25.4 180)
+					(length 5.08)
+					(name "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -27.94 0)
+					(length 5.08)
+					(name "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -27.94 180)
+					(length 5.08)
+					(name "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -30.48 0)
+					(length 5.08)
+					(name "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -30.48 180)
+					(length 5.08)
+					(name "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -2398,10 +1882,28 @@
 		(uuid "2602389e-b5db-4995-b889-2116891618ed")
 	)
 	(junction
+		(at 63.5 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2823724e-fa83-4b3d-8437-331ec1e87ade")
+	)
+	(junction
+		(at 63.5 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "308d15cf-29b3-4352-99fb-94f909679b97")
+	)
+	(junction
 		(at 114.3 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3810fe44-abca-45d4-9d08-eefb76e2d649")
+	)
+	(junction
+		(at 63.5 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ac89c3d-81de-4df9-81e6-7160b4d90e9a")
 	)
 	(junction
 		(at 156.21 195.58)
@@ -2422,12 +1924,6 @@
 		(uuid "44b9f586-4c3f-4481-a686-076bc79d4e00")
 	)
 	(junction
-		(at 49.53 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4a02f6fb-0f6e-4cfb-a039-c6e1b2b481f5")
-	)
-	(junction
 		(at 220.98 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2440,22 +1936,10 @@
 		(uuid "53667a69-3c0f-4bcd-93d1-701746378617")
 	)
 	(junction
-		(at 49.53 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "539b2e42-69c5-417b-beaf-f249f9089e2f")
-	)
-	(junction
 		(at 264.16 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "563d2538-63cf-40a5-ad0f-20266069e5ac")
-	)
-	(junction
-		(at 53.34 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "58254d2a-6f87-4482-91ca-453d39e442ae")
 	)
 	(junction
 		(at 127 104.14)
@@ -2470,12 +1954,6 @@
 		(uuid "5d0cba9f-d039-4457-ab9a-72406de7a581")
 	)
 	(junction
-		(at 49.53 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5ed9ef66-a179-4bf9-8d74-9e94a95d05ae")
-	)
-	(junction
 		(at 114.3 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2486,12 +1964,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64d217b2-f758-49b8-80af-09a2267cbe97")
-	)
-	(junction
-		(at 53.34 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a238a95-74fd-40df-b543-9cb1edd808bb")
 	)
 	(junction
 		(at 157.48 71.12)
@@ -2542,12 +2014,6 @@
 		(uuid "787939d7-8f0d-421d-b8a8-c6425f3769e5")
 	)
 	(junction
-		(at 52.07 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7c331f5a-3fe1-4c91-8e79-4ab5f629faef")
-	)
-	(junction
 		(at 127 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2582,18 +2048,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a78cdcb-e833-4413-9699-ad0e9e2a13e2")
-	)
-	(junction
-		(at 50.8 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8f0ee6a7-fa42-4550-843f-a696c0f997b3")
-	)
-	(junction
-		(at 52.07 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "945cd41c-440b-47d5-888b-ba07f66ef837")
 	)
 	(junction
 		(at 113.03 50.8)
@@ -2642,12 +2096,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a665a243-dd49-4d78-84b5-12451aec1edb")
-	)
-	(junction
-		(at 50.8 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a764b57c-1256-4108-a371-bc8aa3f6732b")
 	)
 	(junction
 		(at 214.63 45.72)
@@ -2770,16 +2218,10 @@
 		(uuid "db69207f-6fe8-4110-b86e-71701e21b1b3")
 	)
 	(junction
-		(at 52.07 116.84)
+		(at 63.5 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e489633b-b644-433d-92b2-c69ccfc1b5c3")
-	)
-	(junction
-		(at 50.8 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4977177-f939-408f-96c3-a0d22c48238f")
+		(uuid "e5553a36-84f4-4014-b96e-c308c73d89dd")
 	)
 	(junction
 		(at 173.99 111.76)
@@ -2824,12 +2266,6 @@
 		(uuid "f079d59b-d19b-430d-9715-7d787f3bebfd")
 	)
 	(junction
-		(at 53.34 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f3726fb6-96d2-4e2e-98d8-51a18b506602")
-	)
-	(junction
 		(at 262.89 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2866,16 +2302,6 @@
 			(type default)
 		)
 		(uuid "00c28572-d0d1-4c32-97ce-8801b53d7ceb")
-	)
-	(wire
-		(pts
-			(xy 52.07 137.16) (xy 52.07 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01210ca1-6077-4913-830f-8b097b1819e0")
 	)
 	(wire
 		(pts
@@ -3029,6 +2455,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 170.18) (xy 63.5 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bfbab1a-80e4-49f1-bd06-8b6a6e0ac566")
+	)
+	(wire
+		(pts
 			(xy 113.03 30.48) (xy 109.22 30.48)
 		)
 		(stroke
@@ -3056,6 +2492,16 @@
 			(type default)
 		)
 		(uuid "1ec65f40-5c9c-4ae9-94e0-55376516057d")
+	)
+	(wire
+		(pts
+			(xy 63.5 180.34) (xy 63.5 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2023fcc2-e5d7-46fe-ab73-2f689709186b")
 	)
 	(wire
 		(pts
@@ -3159,16 +2605,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 41.91) (xy 50.8 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2d9e0257-abd8-4603-aa57-2de3ba81d5b8")
-	)
-	(wire
-		(pts
 			(xy 123.19 25.4) (xy 125.73 25.4)
 		)
 		(stroke
@@ -3216,16 +2652,6 @@
 			(type default)
 		)
 		(uuid "327e1b56-37b9-4965-8e26-c7e18177b29f")
-	)
-	(wire
-		(pts
-			(xy 30.48 26.67) (xy 53.34 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32f4adf8-803d-41c6-836e-8ea683d2c9b3")
 	)
 	(wire
 		(pts
@@ -3299,16 +2725,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 142.24) (xy 52.07 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3dc75fc0-7f97-4020-b4d1-e450c373a82f")
-	)
-	(wire
-		(pts
 			(xy 173.99 140.97) (xy 173.99 135.89)
 		)
 		(stroke
@@ -3359,26 +2775,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 31.75) (xy 53.34 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44df42fd-3d1d-4cca-b27b-5f00795d26e1")
-	)
-	(wire
-		(pts
-			(xy 30.48 52.07) (xy 53.34 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45c6ee57-b433-44f2-99cd-63ac592af7b4")
-	)
-	(wire
-		(pts
 			(xy 247.65 50.8) (xy 247.65 53.34)
 		)
 		(stroke
@@ -3389,16 +2785,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 62.23) (xy 50.8 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4732728e-1127-4cf1-b08a-e3e66cd84844")
-	)
-	(wire
-		(pts
 			(xy 153.67 71.12) (xy 153.67 73.66)
 		)
 		(stroke
@@ -3406,16 +2792,6 @@
 			(type default)
 		)
 		(uuid "4779d941-29f4-438b-80be-28c1302f2a28")
-	)
-	(wire
-		(pts
-			(xy 30.48 127) (xy 49.53 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48e4fa18-5d92-4ba0-937e-8e83e146596a")
 	)
 	(wire
 		(pts
@@ -3449,26 +2825,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 52.07) (xy 53.34 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4aa0d962-00c4-44ef-944f-b4f58d071031")
-	)
-	(wire
-		(pts
-			(xy 30.48 116.84) (xy 52.07 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ae44f3d-43b9-46d2-8a39-310b915bed00")
-	)
-	(wire
-		(pts
 			(xy 252.73 66.04) (xy 250.19 66.04)
 		)
 		(stroke
@@ -3499,7 +2855,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 22.86) (xy 76.2 21.59)
+			(xy 50.8 40.64) (xy 50.8 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3566,16 +2922,6 @@
 			(type default)
 		)
 		(uuid "551231d5-e1da-4905-9771-866165503ba3")
-	)
-	(wire
-		(pts
-			(xy 30.48 111.76) (xy 52.07 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5565c0e8-af4b-48d4-9b35-af0e18f7c0a8")
 	)
 	(wire
 		(pts
@@ -3699,6 +3045,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 110.49) (xy 63.5 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64c6bf22-ba71-4d9e-8428-c0d33f7df1f0")
+	)
+	(wire
+		(pts
 			(xy 110.49 109.22) (xy 110.49 116.84)
 		)
 		(stroke
@@ -3709,7 +3065,17 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 41.91) (xy 71.12 41.91)
+			(xy 63.5 110.49) (xy 63.5 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "686237c5-b1bd-4cdb-a90d-b17f4e27a49e")
+	)
+	(wire
+		(pts
+			(xy 49.53 59.69) (xy 50.8 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3736,16 +3102,6 @@
 			(type default)
 		)
 		(uuid "6900f1bb-0da6-4790-bcd8-d8fe5b395bd5")
-	)
-	(wire
-		(pts
-			(xy 49.53 107.95) (xy 49.53 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6aea89b9-07ab-40ad-a1e4-9df0b6ec5d74")
 	)
 	(wire
 		(pts
@@ -3949,16 +3305,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 147.32) (xy 49.53 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80049015-c523-4f7f-9fa8-82bf155663bd")
-	)
-	(wire
-		(pts
 			(xy 110.49 140.97) (xy 110.49 143.51)
 		)
 		(stroke
@@ -3969,26 +3315,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 132.08) (xy 49.53 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80e53915-b855-4964-9513-8a37c2e19812")
-	)
-	(wire
-		(pts
-			(xy 30.48 147.32) (xy 49.53 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81905e6a-aeb8-4d9c-baa2-c901c11c420d")
-	)
-	(wire
-		(pts
 			(xy 114.3 140.97) (xy 110.49 140.97)
 		)
 		(stroke
@@ -3996,16 +3322,6 @@
 			(type default)
 		)
 		(uuid "83d02649-6442-4a90-8751-c9f909210672")
-	)
-	(wire
-		(pts
-			(xy 30.48 132.08) (xy 49.53 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "840d31bc-e8fc-45ee-b1b1-69dee1f7bf43")
 	)
 	(wire
 		(pts
@@ -4149,7 +3465,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 44.45) (xy 63.5 44.45)
+			(xy 50.8 62.23) (xy 43.18 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4166,26 +3482,6 @@
 			(type default)
 		)
 		(uuid "91baf01b-3014-4e8c-946e-aa25e64d1167")
-	)
-	(wire
-		(pts
-			(xy 30.48 137.16) (xy 52.07 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93432a41-0f78-4a98-8616-639d1da1a33f")
-	)
-	(wire
-		(pts
-			(xy 50.8 46.99) (xy 50.8 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94595344-fa5a-4274-a071-e8dd1e0ae697")
 	)
 	(wire
 		(pts
@@ -4219,6 +3515,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 172.72) (xy 63.5 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97ad1bed-7ec4-4501-945d-c0cf34b31a2a")
+	)
+	(wire
+		(pts
 			(xy 214.63 71.12) (xy 214.63 66.04)
 		)
 		(stroke
@@ -4249,7 +3555,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 44.45) (xy 63.5 40.64)
+			(xy 43.18 62.23) (xy 43.18 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4319,16 +3625,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 57.15) (xy 53.34 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a517061b-f4ab-45fe-82fa-124aefcbf177")
-	)
-	(wire
-		(pts
 			(xy 157.48 116.84) (xy 157.48 119.38)
 		)
 		(stroke
@@ -4359,16 +3655,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 41.91) (xy 50.8 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6a95730-e81a-4007-acba-c73ab4b699c3")
-	)
-	(wire
-		(pts
 			(xy 214.63 30.48) (xy 214.63 25.4)
 		)
 		(stroke
@@ -4379,7 +3665,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 25.4) (xy 76.2 26.67)
+			(xy 50.8 43.18) (xy 50.8 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4406,26 +3692,6 @@
 			(type default)
 		)
 		(uuid "a9b0df3e-fe1f-4b01-b348-d8a188439161")
-	)
-	(wire
-		(pts
-			(xy 52.07 111.76) (xy 52.07 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9f8cac7-019b-4a2e-8e96-a31be3745571")
-	)
-	(wire
-		(pts
-			(xy 30.48 57.15) (xy 53.34 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acf93a70-e9e8-4a7f-980c-b44c5263c7a4")
 	)
 	(wire
 		(pts
@@ -4469,16 +3735,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 127) (xy 49.53 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae8f64e8-70e8-4bd2-a6d9-68e476d20356")
-	)
-	(wire
-		(pts
 			(xy 170.18 166.37) (xy 172.72 166.37)
 		)
 		(stroke
@@ -4519,7 +3775,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 40.64) (xy 69.85 41.91)
+			(xy 49.53 58.42) (xy 49.53 59.69)
 		)
 		(stroke
 			(width 0)
@@ -4536,16 +3792,6 @@
 			(type default)
 		)
 		(uuid "b434d618-154b-4ca3-8efe-a75f01e75480")
-	)
-	(wire
-		(pts
-			(xy 30.48 152.4) (xy 49.53 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b45d94da-0cfe-4127-9528-73545f71048c")
 	)
 	(wire
 		(pts
@@ -4609,7 +3855,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 21.59) (xy 81.28 22.86)
+			(xy 55.88 39.37) (xy 55.88 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4649,13 +3895,13 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 26.67) (xy 53.34 31.75)
+			(xy 63.5 170.18) (xy 63.5 172.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "be90c84e-963a-4cfe-8f69-72db6aa1e5d8")
+		(uuid "bf6a5597-6a70-486c-8f4a-28495ec61527")
 	)
 	(wire
 		(pts
@@ -4669,16 +3915,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 67.31) (xy 30.48 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c149b384-fb7d-4323-a937-7cc1fa57d5f5")
-	)
-	(wire
-		(pts
 			(xy 125.73 128.27) (xy 127 128.27)
 		)
 		(stroke
@@ -4686,16 +3922,6 @@
 			(type default)
 		)
 		(uuid "c16cd23b-15ab-4645-9480-5d4518fbb8e4")
-	)
-	(wire
-		(pts
-			(xy 53.34 31.75) (xy 53.34 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1f3a746-8a73-48b4-a84e-a6e65da2deef")
 	)
 	(wire
 		(pts
@@ -4739,16 +3965,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 142.24) (xy 52.07 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5f8e1ac-5dc3-4b85-a7f9-a4178ffc6b12")
-	)
-	(wire
-		(pts
 			(xy 109.22 50.8) (xy 109.22 53.34)
 		)
 		(stroke
@@ -4766,16 +3982,6 @@
 			(type default)
 		)
 		(uuid "c829860a-aae8-4eba-bcba-556ad5a01fdd")
-	)
-	(wire
-		(pts
-			(xy 30.48 46.99) (xy 50.8 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccba63f2-721f-40d9-bb49-9c07a021a59c")
 	)
 	(wire
 		(pts
@@ -4816,16 +4022,6 @@
 			(type default)
 		)
 		(uuid "d1058b24-a93b-4c1d-bcbd-391c88768833")
-	)
-	(wire
-		(pts
-			(xy 52.07 116.84) (xy 52.07 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2be9fc1-a181-4c61-ab91-9d7fa996a99d")
 	)
 	(wire
 		(pts
@@ -4969,16 +4165,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 62.23) (xy 50.8 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e106cb73-c835-4a22-a2b6-789a85bab78b")
-	)
-	(wire
-		(pts
 			(xy 212.09 45.72) (xy 214.63 45.72)
 		)
 		(stroke
@@ -5006,16 +4192,6 @@
 			(type default)
 		)
 		(uuid "e8334170-0b6a-479c-b882-b89ded91bafe")
-	)
-	(wire
-		(pts
-			(xy 50.8 20.32) (xy 50.8 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8b78f55-5c3c-4ee9-b47f-b8d9d46ffdd1")
 	)
 	(wire
 		(pts
@@ -5229,6 +4405,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 107.95) (xy 63.5 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe523b7d-1b16-491c-a498-e0338e5887f6")
+	)
+	(wire
+		(pts
 			(xy 115.57 45.72) (xy 113.03 45.72)
 		)
 		(stroke
@@ -5285,6 +4471,30 @@
 			)
 		)
 	)
+	(global_label "DSUB_2_PIN_23"
+		(shape bidirectional)
+		(at 63.5 185.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0bb525d9-2d27-4b65-9110-419405cb9ea5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.4131 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "BTN_Sensor_3"
 		(shape bidirectional)
 		(at 219.71 104.14 180)
@@ -5306,30 +4516,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "BTN_EmergencyOff"
-		(shape bidirectional)
-		(at 30.48 72.39 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "10ef8a82-6bd9-45b9-ad57-a3f5fe2af452")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.054 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -5381,19 +4567,19 @@
 			)
 		)
 	)
-	(global_label "BTN_Sensor_5"
+	(global_label "BTN_Start"
 		(shape bidirectional)
-		(at 30.48 77.47 0)
+		(at 40.64 123.19 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "175ea991-6615-4091-b702-8478d8cf193b")
+		(uuid "183d1d1d-5546-4c6d-8d64-b928771bb9fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.6997 77.47 0)
+			(at 27.4117 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5401,13 +4587,37 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
-	(global_label "BTN_Sensor_2"
+	(global_label "DSUB_2_PIN_8"
 		(shape bidirectional)
-		(at 30.48 29.21 0)
+		(at 40.64 180.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "20dd5198-1924-4228-8223-b4fe6548521b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.9364 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "BTN_EmergencyOff"
+		(shape bidirectional)
+		(at 63.5 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5415,9 +4625,9 @@
 			)
 			(justify left)
 		)
-		(uuid "23646237-f6c0-4e1f-86e7-e4f1495b3233")
+		(uuid "2366acde-f607-4fd4-b9bd-31d28b82c414")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.6997 29.21 0)
+			(at 85.074 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5477,19 +4687,19 @@
 			)
 		)
 	)
-	(global_label "BTN_Special"
+	(global_label "LED_Motor"
 		(shape bidirectional)
-		(at 30.48 109.22 0)
+		(at 40.64 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "26a5db46-6882-47ec-9523-af9a68be21c2")
+		(uuid "25568426-4b78-494c-8568-0df4196ccae7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.0669 109.22 0)
+			(at 26.8675 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5497,7 +4707,31 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
+			)
+		)
+	)
+	(global_label "BTN_Special"
+		(shape bidirectional)
+		(at 40.64 193.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "257a32e3-1e41-403f-82a2-9e1115be503e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.0531 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -5525,30 +4759,6 @@
 			)
 		)
 	)
-	(global_label "BTN_Premium"
-		(shape bidirectional)
-		(at 30.48 167.64 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2b8f6a92-a1d2-4d84-afb6-1d4e2c967113")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.3974 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "LED_PreWash"
 		(shape bidirectional)
 		(at 170.18 43.18 180)
@@ -5562,6 +4772,78 @@
 		(uuid "327f6fcb-242d-4ba1-aa08-93012bcfb7e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 153.7465 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_PreWash"
+		(shape bidirectional)
+		(at 40.64 115.57 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "32f82b95-2dfe-41d1-9a7a-d76a32802c53")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 24.2065 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DSUB_2_PIN_16"
+		(shape bidirectional)
+		(at 63.5 167.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "35eea4d1-bdcc-4981-823f-1e449ccb17ab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.4131 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "LED_Care"
+		(shape bidirectional)
+		(at 40.64 162.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "37c587a8-24bc-4a00-a284-2c0fe7a975ef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.835 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5597,19 +4879,19 @@
 			)
 		)
 	)
-	(global_label "LED_Motor"
+	(global_label "LED_Rims"
 		(shape bidirectional)
-		(at 30.48 59.69 0)
+		(at 40.64 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "4063eb8a-5be9-48e1-8674-b930f86c8213")
+		(uuid "3e761ab5-79e0-4bef-aff6-bb2de6d9f109")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.2525 59.69 0)
+			(at 27.5326 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5617,55 +4899,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "DSUB_2_PIN_7"
-		(shape bidirectional)
-		(at 30.48 139.7 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "44d923c4-f2f5-44bb-8e06-ee305cdf9216")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.1836 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "BTN_Sensor_4"
-		(shape bidirectional)
-		(at 30.48 82.55 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "470e6362-21ea-4b9c-8df9-9fdea3719ef5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.6997 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -5693,30 +4927,6 @@
 			)
 		)
 	)
-	(global_label "LED_Care"
-		(shape bidirectional)
-		(at 30.48 170.18 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4d4bce92-c032-4f93-8804-96df0113bc70")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.285 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "BTN_Start"
 		(shape bidirectional)
 		(at 124.46 158.75 180)
@@ -5741,19 +4951,19 @@
 			)
 		)
 	)
-	(global_label "LED_PreWash"
+	(global_label "BTN_Sensor_2"
 		(shape bidirectional)
-		(at 30.48 54.61 0)
+		(at 40.64 128.27 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "590b05e1-2b15-40d0-86f3-761f9d99ee36")
+		(uuid "54df381a-ad42-403d-aca9-c45f0a7bedda")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.9135 54.61 0)
+			(at 23.4203 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5761,13 +4971,61 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
-	(global_label "LED_MainWash"
+	(global_label "DSUB_2_PIN_11"
 		(shape bidirectional)
-		(at 30.48 49.53 0)
+		(at 40.64 187.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "56546a4c-d7ba-4c3f-8573-8f0241ec0c76")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 21.7269 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_Green"
+		(shape bidirectional)
+		(at 40.64 175.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "56a1f77a-7dcc-4a33-b82c-42142f8a2c74")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.7464 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DSUB_1_PIN_23"
+		(shape bidirectional)
+		(at 63.5 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5775,9 +5033,9 @@
 			)
 			(justify left)
 		)
-		(uuid "600006c6-ecca-42d6-adf2-00f3850e70d4")
+		(uuid "5dc8ed74-dba8-41c7-82f3-40a0cca92687")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.1229 49.53 0)
+			(at 82.4131 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5837,6 +5095,30 @@
 			)
 		)
 	)
+	(global_label "BTN_ON_OFF"
+		(shape bidirectional)
+		(at 40.64 120.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "65874b92-7f9d-4cf5-83ad-07b911d092ee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 24.8715 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "LED_Start"
 		(shape bidirectional)
 		(at 170.18 63.5 180)
@@ -5861,19 +5143,19 @@
 			)
 		)
 	)
-	(global_label "LED_Premium"
+	(global_label "LED_Error"
 		(shape bidirectional)
-		(at 30.48 69.85 0)
+		(at 40.64 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "6f692245-0f56-46fe-9030-0c417146e747")
+		(uuid "79b26476-2820-4709-8dd2-c94812d9f984")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.2764 69.85 0)
+			(at 27.4722 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5881,23 +5163,23 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
-	(global_label "DSUB_2_PIN_9"
+	(global_label "LED_Underbody"
 		(shape bidirectional)
-		(at 30.48 129.54 0)
+		(at 40.64 170.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "7182cfac-82d7-4ec1-9cc0-d9316a206e4c")
+		(uuid "7af7d2ce-425f-4f17-b10d-29115f0c253c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.1836 129.54 0)
+			(at 22.2109 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5905,7 +5187,31 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_Red"
+		(shape bidirectional)
+		(at 40.64 172.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7b00d548-f1a4-4b38-868d-3bea29920cbe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.6212 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -5933,30 +5239,6 @@
 			)
 		)
 	)
-	(global_label "DSUB_2_PIN_16"
-		(shape bidirectional)
-		(at 30.48 157.48 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7c37db7a-f7f5-42be-a90d-4403fe01facd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.3931 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "DSUB_2_PIN_15"
 		(shape bidirectional)
 		(at 340.36 49.53 180)
@@ -5970,6 +5252,54 @@
 		(uuid "7c387722-374d-463e-b92f-4ab4fa8822e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 321.4469 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DSUB_2_PIN_9"
+		(shape bidirectional)
+		(at 40.64 182.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7f6a577a-0791-49c3-9424-a73c297ce33a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.9364 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_Special"
+		(shape bidirectional)
+		(at 40.64 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8568f208-a957-4d31-9fa2-825c6f35a4a1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.1741 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6005,6 +5335,30 @@
 			)
 		)
 	)
+	(global_label "BTN_Sensor_1"
+		(shape bidirectional)
+		(at 40.64 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "89f0a67c-dc1c-4ee2-b10e-994edd4aaaac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.4203 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "DSUB_2_PIN_10"
 		(shape bidirectional)
 		(at 340.36 55.88 180)
@@ -6026,30 +5380,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "DSUB_2_PIN_15"
-		(shape bidirectional)
-		(at 30.48 162.56 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8d59b69b-fdec-4bfc-8d40-4a8c634c0306")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.3931 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -6077,19 +5407,19 @@
 			)
 		)
 	)
-	(global_label "DSUB_2_PIN_8"
+	(global_label "LED_MainWash"
 		(shape bidirectional)
-		(at 30.48 134.62 0)
+		(at 40.64 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "91c05ede-7312-4559-8d58-364cc8a1051c")
+		(uuid "94f6b3b4-820b-43f1-b4b9-acbb75efe875")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.1836 134.62 0)
+			(at 22.9971 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6097,23 +5427,23 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
-	(global_label "DSUB_2_PIN_23"
+	(global_label "LED_Start"
 		(shape bidirectional)
-		(at 30.48 121.92 0)
+		(at 40.64 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "941e33f7-0e90-4bd0-8338-b0ad0b0116d9")
+		(uuid "953b424b-3b80-4069-839d-f606d1b70af0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.3931 121.92 0)
+			(at 27.5327 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6121,7 +5451,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -6149,9 +5479,9 @@
 			)
 		)
 	)
-	(global_label "DSUB_2_PIN_10"
+	(global_label "BTN_Sensor_5"
 		(shape bidirectional)
-		(at 30.48 124.46 0)
+		(at 63.5 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6159,9 +5489,9 @@
 			)
 			(justify left)
 		)
-		(uuid "9c8779ad-5640-4dec-80a9-a90dee92d0a8")
+		(uuid "9a5d0ca4-23e9-4cc9-9138-dc089d873548")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.3931 124.46 0)
+			(at 80.7197 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6173,9 +5503,9 @@
 			)
 		)
 	)
-	(global_label "BTN_ON_OFF"
+	(global_label "BTN_Premium"
 		(shape bidirectional)
-		(at 30.48 44.45 0)
+		(at 63.5 162.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6183,33 +5513,9 @@
 			)
 			(justify left)
 		)
-		(uuid "9cc634d3-a69e-45ed-b160-20dc91b4d30f")
+		(uuid "9dd2c633-0a97-44d6-9c77-6d129985b302")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.2485 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "LED_Dry"
-		(shape bidirectional)
-		(at 30.48 165.1 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9d0ce271-8683-4699-a362-50d5d7b41fbb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.015 165.1 0)
+			(at 80.4174 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6245,6 +5551,30 @@
 			)
 		)
 	)
+	(global_label "LED_Dry"
+		(shape bidirectional)
+		(at 40.64 165.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0fbcc4c-e8d3-4758-ae97-8f0a6637447f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.105 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "DSUB_2_PIN_23"
 		(shape bidirectional)
 		(at 340.36 44.45 180)
@@ -6269,9 +5599,9 @@
 			)
 		)
 	)
-	(global_label "LED_Underbody"
+	(global_label "DSUB_2_PIN_15"
 		(shape bidirectional)
-		(at 30.48 154.94 0)
+		(at 63.5 165.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6279,9 +5609,9 @@
 			)
 			(justify left)
 		)
-		(uuid "a5b31a67-e33e-473a-9c42-30e75b373196")
+		(uuid "a8b3c206-a98c-447d-bc7c-8c4f1ac29ba2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.9091 154.94 0)
+			(at 82.4131 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6330,6 +5660,30 @@
 		(uuid "af5ce845-488c-44ee-b7bb-190193e85cf4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 196.866 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DSUB_2_PIN_7"
+		(shape bidirectional)
+		(at 40.64 177.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aff68d1e-a5fa-4669-910d-5639fda03080")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.9364 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6413,19 +5767,19 @@
 			)
 		)
 	)
-	(global_label "BTN_Sensor_3"
+	(global_label "LED_Basic"
 		(shape bidirectional)
-		(at 30.48 24.13 0)
+		(at 40.64 102.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "c118a714-765b-4fd4-90c6-8da95e66ce6c")
+		(uuid "b81f4b38-4e12-40e8-a50f-dc4780fa9e6e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.6997 24.13 0)
+			(at 26.9883 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6433,7 +5787,31 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
+			)
+		)
+	)
+	(global_label "BTN_Basic"
+		(shape bidirectional)
+		(at 40.64 190.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b8c91755-aa68-44e8-b089-a7c84915ea1e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.8673 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -6485,30 +5863,6 @@
 			)
 		)
 	)
-	(global_label "LED_Green"
-		(shape bidirectional)
-		(at 30.48 144.78 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c60776f9-482e-44e5-8485-1c81680eea77")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.3736 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "LED_Care"
 		(shape bidirectional)
 		(at 214.63 43.18 180)
@@ -6533,78 +5887,6 @@
 			)
 		)
 	)
-	(global_label "BTN_Sensor_1"
-		(shape bidirectional)
-		(at 30.48 34.29 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c8fc8739-c000-45cc-ad5d-888a2f7faa77")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.6997 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "DSUB_2_PIN_11"
-		(shape bidirectional)
-		(at 30.48 119.38 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ca5366a5-473f-4320-ac7b-0ba2019f8c09")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.3931 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "DSUB_1_PIN_23"
-		(shape bidirectional)
-		(at 30.48 36.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d1c1e010-fe12-4251-82d8-c8020951a1fe")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.3931 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "DSUB_2_PIN_11"
 		(shape bidirectional)
 		(at 340.36 52.07 180)
@@ -6626,30 +5908,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "BTN_Basic"
-		(shape bidirectional)
-		(at 30.48 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d792d793-8c2d-4f88-9f8e-2a7bf52fa855")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.2527 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -6701,9 +5959,81 @@
 			)
 		)
 	)
-	(global_label "BTN_Start"
+	(global_label "LED_Premium"
 		(shape bidirectional)
-		(at 30.48 39.37 0)
+		(at 40.64 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "de91bb4e-5149-4124-aaf2-b4be9760cf99")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.8436 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DSUB_2_PIN_10"
+		(shape bidirectional)
+		(at 40.64 185.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e4ff012b-0bc3-472c-9c72-efaa71bbf160")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 21.7269 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "BTN_Sensor_3"
+		(shape bidirectional)
+		(at 40.64 130.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f916d112-3ce1-4b8f-8cd1-6d4f5aaae956")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.4203 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "BTN_Sensor_4"
+		(shape bidirectional)
+		(at 63.5 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6711,9 +6041,9 @@
 			)
 			(justify left)
 		)
-		(uuid "de34f1b3-6c67-489f-958f-50bfea0ae15c")
+		(uuid "f986fe73-b3fe-402d-b49e-8da00216a5e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.7083 39.37 0)
+			(at 80.7197 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6725,19 +6055,20 @@
 			)
 		)
 	)
-	(global_label "LED_Red"
-		(shape bidirectional)
-		(at 30.48 149.86 0)
+	(symbol
+		(lib_id "power:VCC")
+		(at 63.5 115.57 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
 		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e17b7aac-48f9-4232-8958-f55f220db373")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.4988 149.86 0)
+		(uuid "018793e5-d77b-45f5-a718-406b81a2bc37")
+		(property "Reference" "#PWR046"
+			(at 59.69 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6745,24 +6076,89 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Value" "VCC_in"
+			(at 67.31 115.5699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 63.5 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2e32ee8f-0982-4f1d-bf53-351daae9c52a")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR046")
+					(unit 1)
+				)
 			)
 		)
 	)
-	(global_label "LED_Basic"
-		(shape bidirectional)
-		(at 30.48 80.01 0)
+	(symbol
+		(lib_id "power:VCC")
+		(at 63.5 187.96 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
 		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e1801c70-4738-4d6c-9799-ecb475ab9a5c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.1317 80.01 0)
+		(uuid "09a21d24-99c2-4fe8-afe0-dcaba66a418a")
+		(property "Reference" "#PWR045"
+			(at 59.69 187.96 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VCC_in"
+			(at 68.58 187.9599 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6772,20 +6168,8 @@
 				(justify left)
 			)
 		)
-	)
-	(global_label "LED_Start"
-		(shape bidirectional)
-		(at 30.48 64.77 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e60def56-b0fe-4ab2-b573-c67f72a7a963")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.5873 64.77 0)
+		(property "Footprint" ""
+			(at 63.5 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6793,23 +6177,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-	)
-	(global_label "LED_Error"
-		(shape bidirectional)
-		(at 30.48 85.09 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "effb83d7-514e-45a8-9629-dade18242bdc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.6478 85.09 0)
+		(property "Datasheet" ""
+			(at 63.5 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6817,23 +6188,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-	)
-	(global_label "LED_Rims"
-		(shape bidirectional)
-		(at 30.48 160.02 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f215b945-baa8-44b8-9343-a71389930d6d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.5874 160.02 0)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 63.5 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6841,31 +6199,17 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-	)
-	(global_label "LED_Special"
-		(shape bidirectional)
-		(at 30.48 74.93 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
+		(pin "1"
+			(uuid "6cbcc407-568e-4554-a894-293759b4c122")
 		)
-		(uuid "fba58ec9-0aed-48dd-a96d-8b257a675b31")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.9459 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR045")
+					(unit 1)
 				)
-				(justify left)
 			)
 		)
 	)
@@ -7025,7 +6369,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 81.28 22.86 270)
+		(at 55.88 40.64 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7035,7 +6379,7 @@
 		(dnp no)
 		(uuid "0f209734-b588-4496-ad34-235ea8a21c52")
 		(property "Reference" "#FLG03"
-			(at 83.185 22.86 0)
+			(at 57.785 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7046,7 +6390,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 85.09 22.8599 90)
+			(at 59.69 40.6399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7057,7 +6401,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 22.86 0)
+			(at 55.88 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7068,7 +6412,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 22.86 0)
+			(at 55.88 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7079,7 +6423,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 81.28 22.86 0)
+			(at 55.88 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7580,6 +6924,244 @@
 		)
 	)
 	(symbol
+		(lib_id "TE 5103308-6:5103308-6")
+		(at 40.64 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1524d338-c80a-430b-b06b-f6d81acba665")
+		(property "Reference" "J57"
+			(at 52.07 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5103308-6"
+			(at 52.07 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "project:SHDR26W66P254_2X13_4051X914X986P"
+			(at 59.69 195.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82012_Ribbon_Cable_Interconnect_Sol&DocType=Catalog%20Section&DocLang=English&PartCntxt=5103308-6&DocFormat=pdf"
+			(at 59.69 295.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Body Features: Connector Profile Low | Primary Product Color Black | Daisy Chain With | Configuration Features: PCB Mount Orientation Vertical | Number of Positions 26 | Number of Rows 2 | Contact Features: Mating Square Post Dimension .025 INCH | PCB Contact Termination Area Plating Material Tin | Contact Underplating Material Nickel | Contact Current Rating (Max) 1 AMP | Contact Shape & Form Square | Mating Square Post Dimension .64 MM | Contact Mating Area Plating Material Gold Flash over Palladium Nicke"
+			(at 40.64 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "9.855"
+			(at 59.69 495.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "TE Connectivity"
+			(at 59.69 595.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5103308-6"
+			(at 59.69 695.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "571-5103308-6"
+			(at 59.69 795.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5103308-6?qs=84A%2FDAdkstJnwZNxAcNGNA%3D%3D"
+			(at 59.69 895.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" "5103308-6"
+			(at 59.69 995.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/5103308-6/te-connectivity?region=europe"
+			(at 59.69 1095.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "25"
+			(uuid "cbe41416-3a7e-47f2-a7dc-577268e00da5")
+		)
+		(pin "24"
+			(uuid "4c42a5a8-eabe-40f7-b34c-da7a45ed0592")
+		)
+		(pin "23"
+			(uuid "1140e185-7ec4-46a6-b860-3755d9237b16")
+		)
+		(pin "18"
+			(uuid "c28463fb-3f20-4693-9dd2-d46f2657de05")
+		)
+		(pin "21"
+			(uuid "a33584c2-5e39-4c31-bdbe-16a22d3b2e15")
+		)
+		(pin "22"
+			(uuid "65f12062-02d2-4f04-b804-8eb5fa8c0dab")
+		)
+		(pin "17"
+			(uuid "f3ef6d52-93f6-4b43-a985-ae1e1505d375")
+		)
+		(pin "11"
+			(uuid "df87d895-3df5-45d6-834c-c554b0cdf2fe")
+		)
+		(pin "10"
+			(uuid "15c2da14-e29e-4ab4-9ad7-b24247969222")
+		)
+		(pin "9"
+			(uuid "4170f6ec-f6b2-4f96-bba5-18807184762d")
+		)
+		(pin "8"
+			(uuid "8845d18d-9d4f-4943-9b5b-2ecbb1a4c755")
+		)
+		(pin "5"
+			(uuid "770b8c93-00dd-4592-8c7d-110ef0a7880e")
+		)
+		(pin "7"
+			(uuid "3c99e1d6-8ba2-41d5-a655-6f563f0813c0")
+		)
+		(pin "2"
+			(uuid "2fd9febe-0f4e-4df1-9872-fee861cfec25")
+		)
+		(pin "4"
+			(uuid "36b15426-a5a8-402d-be1d-137f1fde6d1f")
+		)
+		(pin "1"
+			(uuid "6f5e3f7f-bfde-4c2b-90ed-b76a8e632f98")
+		)
+		(pin "6"
+			(uuid "25f37c67-7ac1-4f3d-9a64-fc4706cda7c9")
+		)
+		(pin "3"
+			(uuid "0116397b-e78e-4a61-8c06-ead7b889c026")
+		)
+		(pin "13"
+			(uuid "ea821ca3-2d5b-41d2-b925-fc5e78a1ac0a")
+		)
+		(pin "15"
+			(uuid "dc865379-519e-42e8-9919-0d399ffa5096")
+		)
+		(pin "12"
+			(uuid "8b2a60b5-afe8-49d2-817c-a064f6d16df5")
+		)
+		(pin "14"
+			(uuid "3c8bcca1-8ed6-4760-802f-26b8174a2a31")
+		)
+		(pin "19"
+			(uuid "2579c5ec-88a0-4210-9921-8e155bb65ae3")
+		)
+		(pin "20"
+			(uuid "1fe41898-08e6-4c94-89b2-e1e0994e9e2f")
+		)
+		(pin "26"
+			(uuid "ed9a6506-2368-4fa3-836d-3e88396832c1")
+		)
+		(pin "16"
+			(uuid "68a1cf05-9aba-488a-a37f-aaffcbe62c1c")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "J57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
 		(at 177.8 161.29 0)
 		(unit 1)
@@ -7816,6 +7398,244 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TE 5103308-6:5103308-6")
+		(at 40.64 162.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1f4d5d57-753c-4621-b704-7b9b64d929d7")
+		(property "Reference" "J58"
+			(at 52.07 154.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5103308-6"
+			(at 52.07 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "project:SHDR26W66P254_2X13_4051X914X986P"
+			(at 59.69 257.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82012_Ribbon_Cable_Interconnect_Sol&DocType=Catalog%20Section&DocLang=English&PartCntxt=5103308-6&DocFormat=pdf"
+			(at 59.69 357.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Body Features: Connector Profile Low | Primary Product Color Black | Daisy Chain With | Configuration Features: PCB Mount Orientation Vertical | Number of Positions 26 | Number of Rows 2 | Contact Features: Mating Square Post Dimension .025 INCH | PCB Contact Termination Area Plating Material Tin | Contact Underplating Material Nickel | Contact Current Rating (Max) 1 AMP | Contact Shape & Form Square | Mating Square Post Dimension .64 MM | Contact Mating Area Plating Material Gold Flash over Palladium Nicke"
+			(at 40.64 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "9.855"
+			(at 59.69 557.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "TE Connectivity"
+			(at 59.69 657.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5103308-6"
+			(at 59.69 757.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "571-5103308-6"
+			(at 59.69 857.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5103308-6?qs=84A%2FDAdkstJnwZNxAcNGNA%3D%3D"
+			(at 59.69 957.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" "5103308-6"
+			(at 59.69 1057.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/5103308-6/te-connectivity?region=europe"
+			(at 59.69 1157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "25"
+			(uuid "fb2842a0-c92e-48b7-97cc-6209e6dae154")
+		)
+		(pin "24"
+			(uuid "750ad762-7b0d-4702-a2ce-d71a9ce61bcc")
+		)
+		(pin "23"
+			(uuid "01a654c6-76d6-453e-9397-742be028426c")
+		)
+		(pin "18"
+			(uuid "34c586d6-3eb3-4dd4-9f24-2221b50b1941")
+		)
+		(pin "21"
+			(uuid "f09a47de-d91c-49f2-99df-a8945e9eaa7a")
+		)
+		(pin "22"
+			(uuid "603e8c7e-5134-4b58-9169-dc709e859a81")
+		)
+		(pin "17"
+			(uuid "f6fa789a-6bb1-47b0-872d-e86a7f653c36")
+		)
+		(pin "11"
+			(uuid "72224d98-ea77-459b-a289-e9bdb06274cb")
+		)
+		(pin "10"
+			(uuid "6ab2fcf8-20da-4242-af41-fdf635ce98a7")
+		)
+		(pin "9"
+			(uuid "72428aea-c84c-4954-83ce-4623bdd33c90")
+		)
+		(pin "8"
+			(uuid "1cd0cee2-8bec-463f-b884-ca6cadc2350b")
+		)
+		(pin "5"
+			(uuid "ecfe5ac6-3f36-4289-b314-a68f62433237")
+		)
+		(pin "7"
+			(uuid "9237acb1-e2c2-47a2-a092-7e200ab91aa9")
+		)
+		(pin "2"
+			(uuid "c2dbfbeb-e095-4e77-af5e-86ba9dda5bab")
+		)
+		(pin "4"
+			(uuid "b0cca7b6-38e0-4bd1-b1b4-921bb532d422")
+		)
+		(pin "1"
+			(uuid "4a037f75-0674-4cf9-8730-663837967a46")
+		)
+		(pin "6"
+			(uuid "f7e69b80-8c59-4fe4-a7fe-0ef9b8986846")
+		)
+		(pin "3"
+			(uuid "c81758a8-0a61-4fdc-80f2-543e4b43da9f")
+		)
+		(pin "13"
+			(uuid "d210834d-2dec-46ce-8dec-e21d4304a69b")
+		)
+		(pin "15"
+			(uuid "c7d0f3dd-5b9f-40f7-afa2-042203fc4b45")
+		)
+		(pin "12"
+			(uuid "2c68ae12-6656-4128-b97b-bff2842773b4")
+		)
+		(pin "14"
+			(uuid "c568d7b4-8251-4171-b372-2bb168c0e6a4")
+		)
+		(pin "19"
+			(uuid "8334ea83-4fa0-4986-8edd-7d5da7d88357")
+		)
+		(pin "20"
+			(uuid "4adcf10c-2bee-4324-9eb1-4133e1a607d4")
+		)
+		(pin "26"
+			(uuid "d1bdc992-330f-4c5e-9503-c20b4ae82ec8")
+		)
+		(pin "16"
+			(uuid "2eb8a3d7-3cf8-404b-bd1f-4ae0804ab0d1")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "J58")
 					(unit 1)
 				)
 			)
@@ -8142,7 +7962,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 76.2 25.4 90)
+		(at 50.8 43.18 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -8154,7 +7974,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a98c96f-e851-4ead-afbb-b6b39e86c797")
 		(property "Reference" "#FLG02"
-			(at 74.295 25.4 0)
+			(at 48.895 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8165,7 +7985,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 72.39 25.3999 90)
+			(at 46.99 43.1799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8176,7 +7996,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 25.4 0)
+			(at 50.8 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8187,7 +8007,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 25.4 0)
+			(at 50.8 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8198,7 +8018,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 76.2 25.4 0)
+			(at 50.8 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9126,84 +8946,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 22.86 90.17 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "483f1567-1334-4f72-9444-2f335f8d5efa")
-		(property "Reference" "#PWR01"
-			(at 22.86 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 22.86 95.25 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 22.86 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4cdcbb32-71d9-437f-b56e-2ccd96930836")
-		)
-		(instances
-			(project "PCB_Waschanlage"
-				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 119.38 25.4 90)
 		(unit 1)
@@ -9933,6 +9675,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 63.5 190.5 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5c7846e5-dd4c-4709-b355-97c705d47556")
+		(property "Reference" "#PWR049"
+			(at 69.85 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 68.58 190.4999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fe1564e4-17f6-4f76-8460-cf0078582c9c")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
 		(at 269.24 24.13 0)
 		(unit 1)
@@ -10009,6 +9830,85 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "J52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 180.34 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5fbb14cb-1aa7-46ae-9f27-4c1830f18b58")
+		(property "Reference" "#PWR044"
+			(at 69.85 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 68.58 180.3399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "50e9374f-c406-4456-8d1c-4d1d029cb415")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -10347,7 +10247,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 76.2 22.86 90)
+		(at 50.8 40.64 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -10359,7 +10259,7 @@
 		(fields_autoplaced yes)
 		(uuid "68d22883-91ba-465c-96a7-d2c02ff48cfa")
 		(property "Reference" "#FLG01"
-			(at 74.295 22.86 0)
+			(at 48.895 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10370,7 +10270,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 72.39 22.8599 90)
+			(at 46.99 40.6399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10381,7 +10281,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 22.86 0)
+			(at 50.8 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10392,7 +10292,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 22.86 0)
+			(at 50.8 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10403,7 +10303,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 76.2 22.86 0)
+			(at 50.8 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10420,6 +10320,85 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 63.5 120.65 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b12f564-dd8f-4a98-b353-b00c243ddedf")
+		(property "Reference" "#PWR047"
+			(at 59.69 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VCC_in"
+			(at 67.31 120.6499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 63.5 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ce163e65-126c-4f96-a876-3ac74cb7e8c7")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -10666,6 +10645,85 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "J35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 81.28 170.18 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "713aaeb3-495a-4e9a-bf1b-b3eaf7631b58")
+		(property "Reference" "#PWR041"
+			(at 87.63 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 86.36 170.1799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 81.28 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9d24c656-7162-4b88-a11c-c08612c1068b")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -11220,84 +11278,6 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 53.34 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "80800827-29d0-4132-bc90-d98c46d7d951")
-		(property "Reference" "#PWR06"
-			(at 53.34 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 53.34 64.77 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 53.34 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9aee02d5-3bcf-4bd7-b04f-a78685aab12d")
-		)
-		(instances
-			(project "PCB_Waschanlage"
-				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
-					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -11931,7 +11911,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 50.8 20.32 0)
+		(at 63.5 125.73 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11940,9 +11920,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "93178296-a614-4203-b95c-afdd8f2cccf3")
-		(property "Reference" "#PWR04"
-			(at 50.8 24.13 0)
+		(uuid "909c88df-0cc8-4da7-b399-4d00e8954cda")
+		(property "Reference" "#PWR048"
+			(at 59.69 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11953,17 +11933,18 @@
 			)
 		)
 		(property "Value" "VCC_in"
-			(at 50.8 15.24 0)
+			(at 67.31 125.7299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 20.32 0)
+			(at 63.5 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11974,7 +11955,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 20.32 0)
+			(at 63.5 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11985,7 +11966,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 50.8 20.32 0)
+			(at 63.5 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11996,12 +11977,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "f75077b0-e9b3-419a-a0a0-b9a3971dc81b")
+			(uuid "850fe426-2328-4c77-8fae-551145a34d25")
 		)
 		(instances
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
-					(reference "#PWR04")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -12569,7 +12550,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 69.85 40.64 0)
+		(at 49.53 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12579,7 +12560,7 @@
 		(dnp no)
 		(uuid "9e30d045-e3c1-4edd-b122-bee9a9ce92dc")
 		(property "Reference" "#PWR08"
-			(at 69.85 44.45 0)
+			(at 49.53 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12590,7 +12571,7 @@
 			)
 		)
 		(property "Value" "VCC_in"
-			(at 69.85 36.322 0)
+			(at 49.53 54.102 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12600,7 +12581,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 40.64 0)
+			(at 49.53 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12611,7 +12592,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 40.64 0)
+			(at 49.53 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12622,7 +12603,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 69.85 40.64 0)
+			(at 49.53 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13435,158 +13416,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:DB25_Pins_MountingHoles")
-		(at 22.86 139.7 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ad7e8f99-12cd-4660-90b1-8e1d7b9385d7")
-		(property "Reference" "J2"
-			(at 31.242 101.092 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DSUB_2"
-			(at 31.242 103.632 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_Dsub:DSUB-25_Pins_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm"
-			(at 22.86 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "25-pin D-SUB connector, pins (male), Mounting Hole"
-			(at 22.86 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "13"
-			(uuid "521140b7-1b6d-4cca-89b8-65ad526d6818")
-		)
-		(pin "12"
-			(uuid "8f2738fc-889a-4274-86aa-44690c78dd39")
-		)
-		(pin "10"
-			(uuid "fb55d4fc-59eb-42a5-9bc2-7c3bde6e8821")
-		)
-		(pin "8"
-			(uuid "cf1b34f0-5058-4c16-8907-c344db63028e")
-		)
-		(pin "11"
-			(uuid "3dddae6b-ede6-48a1-8f4c-0cce17776440")
-		)
-		(pin "1"
-			(uuid "ef262cbf-d885-424d-9a9e-10791be0fe22")
-		)
-		(pin "3"
-			(uuid "1eb09ac4-df4f-49f8-9a21-212358ebf248")
-		)
-		(pin "25"
-			(uuid "b7be8b6f-51d0-494b-a371-b49f69dae480")
-		)
-		(pin "24"
-			(uuid "74b8e3e9-1b94-45d3-bc7a-367fda988969")
-		)
-		(pin "14"
-			(uuid "8956e027-535f-4038-b7f3-5807286e45fc")
-		)
-		(pin "9"
-			(uuid "5b8a1f21-43da-4eea-b804-6dac555643be")
-		)
-		(pin "5"
-			(uuid "7a6e2606-3920-41c7-a434-2dabcc97e6fa")
-		)
-		(pin "19"
-			(uuid "5857b5f6-8bca-492d-a6ee-0484ab182d0e")
-		)
-		(pin "20"
-			(uuid "98781ded-9be9-4b83-bc70-bd7900f45ff1")
-		)
-		(pin "15"
-			(uuid "32144544-e140-4634-9b88-4b355d8e568c")
-		)
-		(pin "18"
-			(uuid "28038e3f-dad5-4686-8784-2c772156b719")
-		)
-		(pin "16"
-			(uuid "daca62ea-33b8-4058-8b81-ed22ff540d42")
-		)
-		(pin "6"
-			(uuid "53a1e5c0-f267-401b-9e75-acf298d915bc")
-		)
-		(pin "2"
-			(uuid "f0a87aa5-4b4f-41af-a016-a41250da62e5")
-		)
-		(pin "4"
-			(uuid "b14fb728-5167-418e-ae40-1d439d659a20")
-		)
-		(pin "23"
-			(uuid "1c95a0c0-825a-4b23-9373-69c7b37a2a40")
-		)
-		(pin "22"
-			(uuid "9059cee7-0581-4d1b-aeea-357a99d20204")
-		)
-		(pin "21"
-			(uuid "ac26f6a2-6013-4515-b8b6-6d9e8444a3c0")
-		)
-		(pin "17"
-			(uuid "a18b8730-9001-4f5b-80ad-a05dd196af8e")
-		)
-		(pin "7"
-			(uuid "2356639d-7a15-464f-a944-aabdfd78a0ee")
-		)
-		(pin "0"
-			(uuid "bb792b07-b70c-4142-8e9d-8111e59a9a94")
-		)
-		(instances
-			(project "PCB_Waschanlage"
-				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 208.28 25.4 90)
 		(unit 1)
@@ -13989,164 +13818,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 22.86 175.26 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b4e75ded-b175-4edf-8763-dd469a4bb385")
-		(property "Reference" "#PWR02"
-			(at 22.86 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 22.86 180.34 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 22.86 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a23855b1-654c-48e0-b10a-b05cbe460cde")
-		)
-		(instances
-			(project "PCB_Waschanlage"
-				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 52.07 163.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b5425ecd-759f-4097-a160-401b5350aebd")
-		(property "Reference" "#PWR05"
-			(at 52.07 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 52.07 168.91 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 52.07 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 52.07 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 52.07 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f2d28b8b-eae5-4182-856c-99057b95da6e")
-		)
-		(instances
-			(project "PCB_Waschanlage"
-				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
-		(at 76.2 21.59 0)
+		(at 50.8 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14156,7 +13829,7 @@
 		(dnp no)
 		(uuid "b6945f92-42fc-4d0d-be87-be2a1b7eafb1")
 		(property "Reference" "#PWR09"
-			(at 76.2 25.4 0)
+			(at 50.8 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14167,7 +13840,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 75.692 17.78 0)
+			(at 50.292 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14177,7 +13850,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 21.59 0)
+			(at 50.8 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14188,7 +13861,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 21.59 0)
+			(at 50.8 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14199,7 +13872,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 76.2 21.59 0)
+			(at 50.8 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14223,7 +13896,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 76.2 41.91 0)
+		(at 55.88 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14234,7 +13907,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc995b05-162d-4a07-a33d-46699f8173aa")
 		(property "Reference" "J3"
-			(at 78.74 41.9099 0)
+			(at 58.42 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14245,7 +13918,7 @@
 			)
 		)
 		(property "Value" "Conn_Fuse"
-			(at 78.74 44.4499 0)
+			(at 58.42 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14256,7 +13929,7 @@
 			)
 		)
 		(property "Footprint" "TBL002A-350-02GY-2GY:CUI_TBL002A-350-02GY-2GY"
-			(at 76.2 41.91 0)
+			(at 55.88 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14267,7 +13940,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 41.91 0)
+			(at 55.88 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14278,7 +13951,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 76.2 41.91 0)
+			(at 55.88 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14622,7 +14295,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 63.5 40.64 0)
+		(at 43.18 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14632,7 +14305,7 @@
 		(dnp no)
 		(uuid "cb6793a7-ed4b-4372-8ca2-74dc8686e3ce")
 		(property "Reference" "#PWR07"
-			(at 63.5 44.45 0)
+			(at 43.18 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14643,7 +14316,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 63.5 36.322 0)
+			(at 43.18 54.102 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14653,7 +14326,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 40.64 0)
+			(at 43.18 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14664,7 +14337,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 40.64 0)
+			(at 43.18 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14675,7 +14348,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 63.5 40.64 0)
+			(at 43.18 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14692,84 +14365,6 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 49.53 107.95 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cc0388b8-e593-4cc2-a62c-eef4ac97438a")
-		(property "Reference" "#PWR03"
-			(at 49.53 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VCC_in"
-			(at 49.53 102.87 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 49.53 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 49.53 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ac71da0d-ed58-4cf3-b8f4-94bb979fd5e1")
-		)
-		(instances
-			(project "PCB_Waschanlage"
-				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -14940,6 +14535,84 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "J51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 66.04 110.49 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e19f3014-d845-4c4a-b996-7041d0c1f593")
+		(property "Reference" "#PWR039"
+			(at 72.39 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 69.342 110.49 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.04 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 66.04 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "25761dc4-5891-4aaf-be50-c427805ed8fc")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -15579,160 +15252,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:DB25_Pins_MountingHoles")
-		(at 22.86 54.61 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ea41fc5d-57c5-4f95-8038-64d2342ef19c")
-		(property "Reference" "J1"
-			(at 33.274 16.51 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DSUB_1"
-			(at 33.274 19.05 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_FFC-FPC:Hirose_FH12-25S-0.5SH_1x25-1MP_P0.50mm_Horizontal"
-			(at 22.86 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "25-pin D-SUB connector, pins (male), Mounting Hole"
-			(at 22.86 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "13"
-			(uuid "d92698a6-9928-4ae0-a173-647a1e47e36b")
-		)
-		(pin "12"
-			(uuid "8aaf1931-66ff-4576-bb48-a2705d04f81c")
-		)
-		(pin "10"
-			(uuid "c90b3963-8199-44e3-9161-c2d61f2f4d59")
-		)
-		(pin "8"
-			(uuid "042393bf-498c-4855-bf11-def3862d268c")
-		)
-		(pin "11"
-			(uuid "1bad8210-6798-4172-86bb-492d81a5a2cb")
-		)
-		(pin "1"
-			(uuid "3bfd7ef9-e2be-4ca7-80c9-f8e3d90861a8")
-		)
-		(pin "3"
-			(uuid "64ecae0f-2bf2-4714-b25b-12403fe3db86")
-		)
-		(pin "25"
-			(uuid "c3d80820-85f5-4b56-9402-61a4468ae53a")
-		)
-		(pin "24"
-			(uuid "5e68bedd-4efd-41b9-a5e1-0719599531bf")
-		)
-		(pin "14"
-			(uuid "75320c71-7f2f-43f0-a237-5a7ab32abdf1")
-		)
-		(pin "9"
-			(uuid "dd8cd1ef-1c8a-4637-9703-a787558a1f55")
-		)
-		(pin "5"
-			(uuid "4140d540-c274-4e84-8c29-adc2286f8dc3")
-		)
-		(pin "19"
-			(uuid "b164ad97-be17-4c45-9739-0bba33e97e82")
-		)
-		(pin "20"
-			(uuid "4a058bea-383d-4264-ba4f-43bdc7db677d")
-		)
-		(pin "15"
-			(uuid "32f4ba43-3090-4c4c-a204-865bf905e427")
-		)
-		(pin "18"
-			(uuid "b702f63d-b515-4d79-b3b2-7dbbc8fd4d64")
-		)
-		(pin "16"
-			(uuid "7dc43a02-835f-41ed-a51a-2b185522da82")
-		)
-		(pin "6"
-			(uuid "f63fcc35-108a-4152-8eeb-c4c61319ad04")
-		)
-		(pin "2"
-			(uuid "cc776dac-1b1c-48f2-b9b4-0e9d0e48e284")
-		)
-		(pin "4"
-			(uuid "043160f9-4ddb-47b1-9987-d2189f0c6268")
-		)
-		(pin "23"
-			(uuid "8cd71c5d-db33-47bf-b965-9af6cd3b0b77")
-		)
-		(pin "22"
-			(uuid "7357d789-da92-40d8-bbbe-17c58cedcd43")
-		)
-		(pin "21"
-			(uuid "19074419-697b-4a51-9667-cf5fc4ab8e51")
-		)
-		(pin "17"
-			(uuid "f1e426ba-9f76-419f-94aa-899b82cc8404")
-		)
-		(pin "7"
-			(uuid "bf63e990-94d2-44e7-af22-f61e8d9f38f7")
-		)
-		(pin "0"
-			(uuid "3d2628e1-98f7-4422-a3e4-af30a55f2c86")
-		)
-		(instances
-			(project "PCB_Waschanlage"
-				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 76.2 26.67 0)
+		(at 50.8 44.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15743,7 +15264,7 @@
 		(fields_autoplaced yes)
 		(uuid "ec5e7534-5ad0-4ee0-85dc-bb5b94b78f2e")
 		(property "Reference" "#PWR010"
-			(at 76.2 33.02 0)
+			(at 50.8 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15754,7 +15275,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.2 31.75 0)
+			(at 50.8 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15765,7 +15286,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 26.67 0)
+			(at 50.8 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15776,7 +15297,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 26.67 0)
+			(at 50.8 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15787,7 +15308,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.2 26.67 0)
+			(at 50.8 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15811,7 +15332,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 81.28 21.59 0)
+		(at 55.88 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15821,7 +15342,7 @@
 		(dnp no)
 		(uuid "f133d1f0-6ac6-4970-8247-512b3709f74f")
 		(property "Reference" "#PWR011"
-			(at 81.28 25.4 0)
+			(at 55.88 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15832,7 +15353,7 @@
 			)
 		)
 		(property "Value" "VCC_in"
-			(at 83.312 17.78 0)
+			(at 57.912 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15842,7 +15363,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 21.59 0)
+			(at 55.88 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15853,7 +15374,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 21.59 0)
+			(at 55.88 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15864,7 +15385,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 81.28 21.59 0)
+			(at 55.88 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16046,6 +15567,84 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 128.27 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f2bbabf8-8250-4436-9b39-cb2d0b7f71e4")
+		(property "Reference" "#PWR042"
+			(at 69.85 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 66.802 128.27 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "919e7654-f3eb-4254-98af-4d3bd17ac555")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -16281,6 +15880,85 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 63.5 177.8 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f656aeb3-da9b-40e0-9046-b06748b4e157")
+		(property "Reference" "#PWR043"
+			(at 59.69 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VCC_in"
+			(at 68.58 177.7999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 63.5 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f88de361-d7c9-4764-b2f9-ad4c82bcaaf3")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -16753,6 +16431,84 @@
 			(project "PCB_Waschanlage"
 				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
 					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 118.11 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fb9b80fa-286c-43e4-ba2d-117aef1e070e")
+		(property "Reference" "#PWR040"
+			(at 69.85 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 66.802 118.11 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6c0c27ec-26d9-4831-a31a-327d3154b786")
+		)
+		(instances
+			(project "PCB_Waschanlage"
+				(path "/284bb3f8-733b-4eb9-985e-cf7a240c5099"
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
