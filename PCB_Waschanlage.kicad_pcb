@@ -20453,6 +20453,18 @@
 			)
 		)
 	)
+	(gr_text "To Do:\n- d-sub beschriftn\n- name und github repo und qr\n- ID symbol\n- Kontrolle Maße\n- Stückliste\n"
+		(at 40.75 146.25 0)
+		(layer "F.SilkS")
+		(uuid "2de6afbb-73b5-4db5-84e9-a405127c389d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "on_off button"
 		(at 41.25 78.75 0)
 		(layer "F.SilkS")
