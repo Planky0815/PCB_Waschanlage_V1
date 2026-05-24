@@ -13388,7 +13388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TBL002A-350-02GY-2GY:CUI_TBL002A-350-02GY-2GY"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 162.56 50.8 0)
 			(hide yes)
 			(show_name no)
