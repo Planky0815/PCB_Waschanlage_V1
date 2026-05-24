@@ -1821,6 +1821,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 318.77 22.86)
+		(end 372.11 68.58)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "8705120a-2cef-4c62-81ce-2bbfc494b14a")
+	)
+	(text "Spare I/O"
+		(exclude_from_sim no)
+		(at 324.612 25.146 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d8bfb18f-ca38-42a7-895a-dbe99e14fbda")
+	)
 	(junction
 		(at 208.28 116.84)
 		(diameter 0)
@@ -3115,7 +3137,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 41.91) (xy 320.04 38.1)
+			(xy 336.55 36.83) (xy 336.55 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4065,7 +4087,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 38.1) (xy 340.36 38.1)
+			(xy 336.55 38.1) (xy 340.36 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4580,6 +4602,30 @@
 		(uuid "183d1d1d-5546-4c6d-8d64-b928771bb9fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 27.4117 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DSUB_2_PIN_11"
+		(shape bidirectional)
+		(at 340.36 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1f715bcf-755f-498a-9024-ab8a6ac6dc02")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 321.4469 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5359,30 +5405,6 @@
 			)
 		)
 	)
-	(global_label "DSUB_2_PIN_10"
-		(shape bidirectional)
-		(at 340.36 55.88 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8d2b260d-94b8-4a3b-9354-254e166bfb8c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 321.4469 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "DSUB_2_PIN_16"
 		(shape bidirectional)
 		(at 340.36 46.99 180)
@@ -5767,6 +5789,30 @@
 			)
 		)
 	)
+	(global_label "DSUB_2_PIN_10"
+		(shape bidirectional)
+		(at 340.36 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b59d1acc-715f-4cad-9053-a4120f94f88b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 321.4469 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "LED_Basic"
 		(shape bidirectional)
 		(at 40.64 102.87 180)
@@ -5876,30 +5922,6 @@
 		(uuid "c87445c5-ff60-4e8e-b645-f9490dc7d117")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 201.825 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "DSUB_2_PIN_11"
-		(shape bidirectional)
-		(at 340.36 52.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d485d978-5ed0-4260-934e-1cbc6e6f6363")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 321.4469 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8244,7 +8266,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm"
+		(property "Footprint" "TBL002A-350-04GY-2GY:CUI_TBL002A-350-04GY-2GY"
 			(at 345.44 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -8891,7 +8913,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm"
+		(property "Footprint" "TBL002A-350-04GY-2GY:CUI_TBL002A-350-04GY-2GY"
 			(at 345.44 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -10027,7 +10049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm"
+		(property "Footprint" "TBL002A-350-04GY-2GY:CUI_TBL002A-350-04GY-2GY"
 			(at 345.44 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -11285,7 +11307,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 320.04 41.91 0)
+		(at 336.55 36.83 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11295,7 +11317,7 @@
 		(dnp no)
 		(uuid "81c50804-a063-40b3-ad08-e9104bd77931")
 		(property "Reference" "#PWR037"
-			(at 320.04 48.26 0)
+			(at 330.2 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11306,7 +11328,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 317.754 42.164 0)
+			(at 331.216 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11316,7 +11338,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 320.04 41.91 0)
+			(at 336.55 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11327,7 +11349,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 41.91 0)
+			(at 336.55 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11338,7 +11360,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 320.04 41.91 0)
+			(at 336.55 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13110,7 +13132,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a59731d0-c95d-47d9-b6b1-37a70facc4b0")
 		(property "Reference" "#PWR038"
 			(at 337.82 35.56 0)
@@ -13124,7 +13145,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 337.82 26.67 0)
+			(at 337.82 27.178 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

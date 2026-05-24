@@ -70,12 +70,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "silk_overlap|246400000|95700000|56bea384-0b15-4fff-b989-94d1278bd942|e3c3813f-14b3-45bd-8fa3-fac90717d851",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -680,7 +675,7 @@
         "uuid": "284bb3f8-733b-4eb9-985e-cf7a240c5099"
       }
     ],
-    "used_designators": "#PWR39-49,J57-58",
+    "used_designators": "J59-61",
     "variants": []
   },
   "sheets": [
