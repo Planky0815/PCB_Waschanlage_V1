@@ -59,7 +59,7 @@
   "git": {
     "integration_disabled": false,
     "repo_type": "https",
-    "repo_username": "maehrfelix",
+    "repo_username": "",
     "ssh_key": ""
   },
   "meta": {
